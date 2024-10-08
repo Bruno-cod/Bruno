@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    color:#756d3b;
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+    color: #756d3b;
+    font-family:monospace;
+    font-size: 28px;
+}
+ul{
+    font-size: 20px;
+    color:#756d3b;
+    font-family: monospace;
+    text-align:center;
+}
+il{
+    font-size: 16px;
+    color:#756d3b;
+    font-family: monospace;
+    text-align:center;
+}
+footer{
+    background-image: url(/Projects.png); text-align:end;color: #f5d300;background-size: cover;
+     
+     background-size: cover; font-size: 11px;
+}

@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    color:#756d3b;
+    font-family: monospace;
+
+    
+}
+
+footer{
+   background-image: url(/Projects.png); text-align:end;color: #f5d300;background-size: cover;
+    
+    background-size: cover; font-size: 11px;
+}
+img[width='300px']{
+    border: 3px solid #756d3b;
+    border-radius: 10%;
+}
+img[width='500px']{
+    border: 3px solid #756d3b;
+    border-radius: 10%;
+   
+}
+
+
+
